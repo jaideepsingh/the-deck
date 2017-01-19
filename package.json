@@ -1,0 +1,14 @@
+{
+  "name": "the-deck",
+  "version": "1.0.0",
+  "description": "A deck of cards using ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Jaideep Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-es6": "0.4.0"
+  }
+}
